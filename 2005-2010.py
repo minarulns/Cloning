@@ -140,7 +140,7 @@ def main_apv():
 
     try:
 
-        key1=open('/data/data/com.termux/files/usr/bin/.minarul-cov', 'r').read()
+        key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 
     except IOError:
 
@@ -166,7 +166,7 @@ def main_apv():
 
         print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
-        kok=open('/data/data/com.termux/files/usr/bin/.minarul-cov', 'w')
+        kok=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'w')
 
         kok.write(myid+imt)
 
