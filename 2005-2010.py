@@ -184,7 +184,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/+8801612278337?text=' + tks)
+        os.system('am start https://wa.me/+8801903631837?text=' + tks)
 
         
 
@@ -222,20 +222,20 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+01712034653?text=' + tks)
+        os.system('am start https://wa.me/+01903631837?text=' + tks)
 
 logo="""
-\x1b[1;92m__  __  _____  _   _            _____   _    _  _       
-\x1b[1;92m|  \/  ||_   _|| \ | |    /\    |  __ \ | |  | || |      
-\x1b[1;92m| \  / |  | |  |  \| |   /  \   | |__) || |  | || |      
-\x1b[1;92m| |\/| |  | |  | . ` |  / /\ \  |  _  / | |  | || |      
-\x1b[1;92m| |  | | _| |_ | |\  | / ____ \ | | \ \ | |__| || |____  
-\x1b[1;92m|_|  |_||_____||_| \_|/_/    \_\|_|  \_\ \____/ |______| 
+\x1b[1;92m  __  __  _____  _   _            _____   _    _  _       
+\x1b[1;92m |  \/  ||_   _|| \ | |    /\    |  __ \ | |  | || |      
+\x1b[1;92m | \  / |  | |  |  \| |   /  \   | |__) || |  | || |      
+\x1b[1;92m | |\/| |  | |  | . ` |  / /\ \  |  _  / | |  | || |      
+\x1b[1;92m | |  | | _| |_ | |\  | / ____ \ | | \ \ | |__| || |____  
+\x1b[1;92m |_|  |_||_____||_| \_|/_/    \_\|_|  \_\ \____/ |______| 
 
  [$]*****************************************************[$]
    \x1b[1;92m╔═════════════════════════════╗
    \x1b[1;92m║ TOOL NAME : { Mr.Minarul }   ║
-   \x1b[1;92m║ AUTHOR    : MR. K4US4R      ║
+   \x1b[1;92m║ AUTHOR    : MR. Minarul      ║
    \x1b[1;92m║ GITHUB    : git.me/minarulns ║
    \x1b[1;92m║ FACEBOOK  : Md. Minarul islam   ║
    \x1b[1;92m║ Group     : 5G Spammer Team ║
@@ -391,7 +391,7 @@ class __xxx__:
 
         global ok,cp,loop
 
-        sys.stdout.write(f"\r \x1b[1;33m[K4US4R]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
+        sys.stdout.write(f"\r \x1b[1;33m[MINARUL]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
 
         sys.stdout.flush()
 
@@ -685,7 +685,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+01712034653")
+	os.system("xdg-open https://wa.me/+01903631837")
 
 	time.sleep(3)
 
