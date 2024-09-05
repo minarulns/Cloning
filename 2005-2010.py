@@ -233,14 +233,14 @@ logo="""
 \x1b[1;92m |_|  |_||_____||_| \_|/_/    \_\|_|  \_\ \____/ |______| 
 
  [$]*****************************************************[$]
-   \x1b[1;92m╔══════════════════════════════╗
-   \x1b[1;92m║ TOOL NAME : { Mr.Minarul }   ║
-   \x1b[1;92m║ AUTHOR    : MR. Minarul      ║
-   \x1b[1;92m║ GITHUB    : git.me/minarulns ║
+   \x1b[1;92m╔═══════════════════════════════╗
+   \x1b[1;92m║ TOOL NAME : { Mr.Minarul }    ║
+   \x1b[1;92m║ AUTHOR    : MR. Minarul       ║
+   \x1b[1;92m║ GITHUB    : git.me/minarulns  ║
    \x1b[1;92m║ FACEBOOK  : Md. Minarul islam ║
    \x1b[1;92m║ Group     : 5G Spammer Team   ║
    \x1b[1;92m║ WHATSAPP  : [ ERROR ]         ║
-   \x1b[1;92m╚══════════════════════════════╝
+   \x1b[1;92m╚═══════════════════════════════╝
  [$]*****************************************************[$]
 
  \033[1;32m Use (Airplane) Mod Every 10-20 Second For Get More Ok iDz \033[1;32m
