@@ -140,7 +140,7 @@ def main_apv():
 
     try:
 
-        key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
+        key1=open('/data/data/com.termux/files/usr/bin/.minarul-cov', 'r').read()
 
     except IOError:
 
@@ -166,7 +166,7 @@ def main_apv():
 
         print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
-        kok=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'w')
+        kok=open('/data/data/com.termux/files/usr/bin/.minarul-cov', 'w')
 
         kok.write(myid+imt)
 
@@ -188,7 +188,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt").text
+    r1=requests.get("https://github.com/minarulns/Cloning/raw/main/approval.text").text
 
     if key1 in r1:
 
