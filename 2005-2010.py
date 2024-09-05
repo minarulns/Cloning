@@ -222,7 +222,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+01903631837?text=' + tks)
+        os.system('am start https://wa.me/+8801903631837?text=' + tks)
 
 logo="""
 \x1b[1;92m  __  __  _____  _   _            _____   _    _  _       
@@ -233,14 +233,14 @@ logo="""
 \x1b[1;92m |_|  |_||_____||_| \_|/_/    \_\|_|  \_\ \____/ |______| 
 
  [$]*****************************************************[$]
-   \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║ TOOL NAME : { Mr.Minarul }  ║
-   \x1b[1;92m║ AUTHOR    : MR. Minarul     ║
-   \x1b[1;92m║ GITHUB    : git.me/minarulns║
+   \x1b[1;92m╔══════════════════════════════╗
+   \x1b[1;92m║ TOOL NAME : { Mr.Minarul }   ║
+   \x1b[1;92m║ AUTHOR    : MR. Minarul      ║
+   \x1b[1;92m║ GITHUB    : git.me/minarulns ║
    \x1b[1;92m║ FACEBOOK  : Md. Minarul islam ║
    \x1b[1;92m║ Group     : 5G Spammer Team   ║
    \x1b[1;92m║ WHATSAPP  : [ ERROR ]         ║
-   \x1b[1;92m╚═════════════════════════════╝
+   \x1b[1;92m╚══════════════════════════════╝
  [$]*****************************************************[$]
 
  \033[1;32m Use (Airplane) Mod Every 10-20 Second For Get More Ok iDz \033[1;32m
@@ -685,7 +685,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+01903631837")
+	os.system("xdg-open https://wa.me/+8801903631837")
 
 	time.sleep(3)
 
@@ -695,7 +695,7 @@ def yt():
 
 	logo()
 
-	os.system("xdg-open https://wa.me/+01903631837")
+	os.system("xdg-open https://wa.me/+8801903631837")
 
 	time.sleep(3)
 
